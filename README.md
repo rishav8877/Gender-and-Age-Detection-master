@@ -261,15 +261,14 @@ The web interface allows you to select an image and process it for age and gende
 
 ## Examples 
 
-<p><b>NOTE:- I downloaded the images from Google. You can use any image for testing.</b></p>
+<p><b>NOTE:- I downloaded the images from Google. You can use any image for testing.</b></p
 
-<img src="Example/Detecting age and gender girl1.png">
-<img src="Example/Detecting age and gender girl2.png">
-<img src="Example/Detecting age and gender kid1.png">
-<img src="Example/Detecting age and gender kid2.png">
-<img src="Example/Detecting age and gender man1.png">
-<img src="Example/Detecting age and gender man2.png">
-<img src="Example/Detecting age and gender woman1.png">
+<img width="480" height="720" alt="girl1" src="https://github.com/user-attachments/assets/2b677c4a-0a11-4d9f-bc12-58eafffed189" />
+<img width="623" height="395" alt="girl2" src="https://github.com/user-attachments/assets/1f508e7b-f4f2-4e0f-bc60-22042a44075f" />
+<img width="960" height="645" alt="kid1" src="https://github.com/user-attachments/assets/acc6d5f5-9705-4e3a-ab05-ca47b5e70992" />
+<img width="800" height="687" alt="kid2" src="https://github.com/user-attachments/assets/479795f5-7b48-4ed0-aeed-a8da2f6938f0" />
+<img width="612" height="408" alt="man1" src="https://github.com/user-attachments/assets/7a466778-0817-46a3-ac0d-8a757c9c8d78" />
+<img width="1000" height="667" alt="man2" src="https://github.com/user-attachments/assets/496d88cc-545b-4f03-92fd-bb8c6513040c" />
 
 ---
 

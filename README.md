@@ -1,3 +1,4 @@
+<img width="1251" height="835" alt="WhatsApp Image 2026-08-24 at 5 08 24 PM (1)" src="https://github.com/user-attachments/assets/a6096a8f-e6fb-4f9b-93c2-a4a4c7005ebc" />
 # Gender and Age Detection System
 
 A real-time **Gender and Age Detection System** built using **Python, OpenCV, Deep Learning, and Flask**. The project detects faces from images or webcam input and predicts the **gender** and **approximate age range** of each detected person.

@@ -263,12 +263,13 @@ The web interface allows you to select an image and process it for age and gende
 
 <p><b>NOTE:- I downloaded the images from Google. You can use any image for testing.</b></p
 
-<img width="480" height="720" alt="girl1" src="https://github.com/user-attachments/assets/2b677c4a-0a11-4d9f-bc12-58eafffed189" />
-<img width="623" height="395" alt="girl2" src="https://github.com/user-attachments/assets/1f508e7b-f4f2-4e0f-bc60-22042a44075f" />
-<img width="960" height="645" alt="kid1" src="https://github.com/user-attachments/assets/acc6d5f5-9705-4e3a-ab05-ca47b5e70992" />
-<img width="800" height="687" alt="kid2" src="https://github.com/user-attachments/assets/479795f5-7b48-4ed0-aeed-a8da2f6938f0" />
-<img width="612" height="408" alt="man1" src="https://github.com/user-attachments/assets/7a466778-0817-46a3-ac0d-8a757c9c8d78" />
-<img width="1000" height="667" alt="man2" src="https://github.com/user-attachments/assets/496d88cc-545b-4f03-92fd-bb8c6513040c" />
+<img width="1251" height="835" alt="WhatsApp Image 2026-08-24 at 5 08 24 PM (1)" src="https://github.com/user-attachments/assets/0fc05909-1837-4479-9945-04ff41cc18ab" />
+<img width="1201" height="801" alt="WhatsApp Image 2026-08-24 at 5 08 24 PM" src="https://github.com/user-attachments/assets/5b273336-d6b9-4008-bb2e-fd5051131d15" />
+<img width="1001" height="860" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM (1)" src="https://github.com/user-attachments/assets/6ee12b71-9548-49c9-b8c4-2e9eab66cbf0" />
+<img width="1201" height="807" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM (2)" src="https://github.com/user-attachments/assets/e50bdc33-bd5b-440b-aff0-e0af9245bec7" />
+<img width="780" height="495" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM (3)" src="https://github.com/user-attachments/assets/b432615b-fa33-4e7c-9d94-02b55cb433fa" />
+<img width="766" height="511" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM" src="https://github.com/user-attachments/assets/a243b892-e074-4589-877d-92b93fc3f575" />
+<img width="601" height="901" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM (4)" src="https://github.com/user-attachments/assets/50183ce4-bddf-4303-bb80-715e91be093a" />
 
 ---
 

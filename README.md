@@ -1,3 +1,4 @@
+<img width="1251" height="835" alt="WhatsApp Image 2026-08-24 at 5 08 24 PM (1)" src="https://github.com/user-attachments/assets/6a5be78e-5519-49f7-867f-e3b314dc55be" />
 <img width="1251" height="835" alt="WhatsApp Image 2026-08-24 at 5 08 24 PM (1)" src="https://github.com/user-attachments/assets/a6096a8f-e6fb-4f9b-93c2-a4a4c7005ebc" />
 # Gender and Age Detection System
 
@@ -271,6 +272,8 @@ The web interface allows you to select an image and process it for age and gende
 <img width="780" height="495" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM (3)" src="https://github.com/user-attachments/assets/b432615b-fa33-4e7c-9d94-02b55cb433fa" />
 <img width="766" height="511" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM" src="https://github.com/user-attachments/assets/a243b892-e074-4589-877d-92b93fc3f575" />
 <img width="601" height="901" alt="WhatsApp Image 2026-08-24 at 5 08 25 PM (4)" src="https://github.com/user-attachments/assets/50183ce4-bddf-4303-bb80-715e91be093a" />
+<img width="1251" height="835" alt="WhatsApp Image 2026-08-24 at 5 08 24 PM (1)" src="https://github.com/user-attachments/assets/4ee6584e-aa6f-437d-9e3d-73dea6b6c7be" />
+
 
 ---
 

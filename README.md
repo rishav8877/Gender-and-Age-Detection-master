@@ -411,20 +411,6 @@ This project demonstrates concepts that can be useful for:
 
 ---
 
-## Author
-
-**Rishav Kumar**
-
-MCA Student | Software Development & AI/ML Enthusiast
-
----
-
 ## License
 
 This project is intended for educational and demonstration purposes. Please check the licenses of the original OpenCV models and any third-party resources before redistributing them.
-
----
-
-## Support
-
-If you find this project useful, consider giving the repository on GitHub.
